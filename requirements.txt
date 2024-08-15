@@ -5,3 +5,4 @@ fuzzywuzzy
 pandas
 numpy
 python-Levenshtein
+gunicorn
