@@ -1,7 +1,7 @@
 Flask==3.0.3
-jsonify
 requests
-flask_cors
+flask-cors
 fuzzywuzzy
 pandas
 numpy
+python-Levenshtein
