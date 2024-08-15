@@ -1,0 +1,7 @@
+Flask==3.0.3
+jsonify
+requests
+flask_cors
+fuzzywuzzy
+pandas
+numpy
